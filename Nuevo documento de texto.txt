@@ -1,0 +1,1 @@
+SELECT preguntas.id_pre,respuestas.valor,respuestas.respuesta FROM preguntas,respuestas WHERE preguntas.id_pre=respuestas.id_pre
